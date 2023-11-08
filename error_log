@@ -1,0 +1,29 @@
+[28-Jun-2020 11:43:00 Asia/Jakarta] PHP Fatal error:  Call to undefined function dump() in /home/ebut4221/public_html/code/application/controllers/C_panel.php on line 39
+[28-Jun-2020 11:59:00 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ebut4221/public_html/code/application/views/panel/cetak/cetak_sku.php on line 167
+[28-Jun-2020 11:59:21 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ebut4221/public_html/code/application/views/panel/cetak/cetak_sku.php on line 167
+[28-Jun-2020 12:00:18 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ebut4221/public_html/code/application/views/panel/cetak/cetak_sku.php on line 167
+[28-Jun-2020 12:15:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function result() in /home/ebut4221/public_html/code/application/controllers/Dashboard.php on line 31
+[28-Jun-2020 12:15:30 Asia/Jakarta] PHP Fatal error:  Call to undefined function result_array() in /home/ebut4221/public_html/code/application/controllers/Dashboard.php on line 31
+[28-Jun-2020 12:25:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ebut4221/public_html/code/application/views/berdasarkan/berdasarkan.php on line 168
+[28-Jun-2020 12:26:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ebut4221/public_html/code/application/views/berdasarkan/berdasarkan.php on line 168
+[28-Jun-2020 12:26:44 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ebut4221/public_html/code/application/views/berdasarkan/berdasarkan.php on line 168
+[28-Jun-2020 12:27:00 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/ebut4221/public_html/code/application/views/berdasarkan/berdasarkan.php on line 168
+[28-Jun-2020 14:18:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/ebut4221/public_html/code/application/controllers/C_panel.php on line 280
+[30-Jun-2020 08:32:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method m_index::tambah_domtinggal() in /home/ebut4221/public_html/code/application/controllers/C_panel.php on line 110
+[30-Jun-2020 08:34:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method m_index::tambah_domtinggal() in /home/ebut4221/public_html/code/application/controllers/C_panel.php on line 110
+[14-Jan-2022 14:05:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/eumm9739/public_html/hambalang/application/controllers/C_pendaftaran_ktp.php on line 27
+[02-Mar-2022 16:46:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function mysqli_init() in /home/pemq2694/public_html/puspasari/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[12-Mar-2022 12:00:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/pemq2694/public_html/puspasari/application/controllers/C_pendaftaran_ktp.php on line 27
+[12-Mar-2022 12:00:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/pemq2694/public_html/puspasari/application/controllers/C_kelahiran.php on line 30
+[12-Mar-2022 12:18:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/pemq2694/public_html/puspasari/application/controllers/C_pendaftaran_ktp.php on line 27
+[12-Mar-2022 12:19:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/pemq2694/public_html/puspasari/application/controllers/C_kelahiran.php on line 30
+[27-Jul-2023 11:30:42 Asia/Jakarta] PHP Notice:  Undefined index: log_path in /home/tamf7241/public_html/system/core/Log.php on line 127
+[27-Jul-2023 11:30:42 Asia/Jakarta] PHP Notice:  Undefined index: log_path in /home/tamf7241/public_html/system/core/Log.php on line 127
+[27-Jul-2023 11:30:42 Asia/Jakarta] PHP Warning:  mkdir(): Invalid path in /home/tamf7241/public_html/system/core/Log.php on line 131
+[27-Jul-2023 11:30:42 Asia/Jakarta] PHP Notice:  Undefined index: log_threshold in /home/tamf7241/public_html/system/core/Log.php on line 138
+[27-Jul-2023 11:30:42 Asia/Jakarta] PHP Notice:  Undefined index: log_threshold in /home/tamf7241/public_html/system/core/Log.php on line 142
+[27-Jul-2023 11:30:45 Asia/Jakarta] PHP Notice:  Undefined index: log_path in /home/tamf7241/public_html/system/core/Log.php on line 127
+[27-Jul-2023 11:30:45 Asia/Jakarta] PHP Notice:  Undefined index: log_path in /home/tamf7241/public_html/system/core/Log.php on line 127
+[27-Jul-2023 11:30:45 Asia/Jakarta] PHP Warning:  mkdir(): Invalid path in /home/tamf7241/public_html/system/core/Log.php on line 131
+[27-Jul-2023 11:30:45 Asia/Jakarta] PHP Notice:  Undefined index: log_threshold in /home/tamf7241/public_html/system/core/Log.php on line 138
+[27-Jul-2023 11:30:45 Asia/Jakarta] PHP Notice:  Undefined index: log_threshold in /home/tamf7241/public_html/system/core/Log.php on line 142
